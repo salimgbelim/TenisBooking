@@ -1,0 +1,9 @@
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.csprojAssemblyReference.cache
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.RazorAssemblyInfo.cache
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.RazorAssemblyInfo.cs
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.AssemblyInfoInputs.cache
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.AssemblyInfo.cs
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.TagHelpers.input.cache
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.TagHelpers.output.cache
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.dll
+/Users/salim.belim/Downloads/aspdotnet-core-dependency-injection/02/demos/After/src/TennisBookings.Web/obj/Debug/netcoreapp2.2/TennisBookings.Web.pdb
